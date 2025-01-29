@@ -2,6 +2,8 @@ package Day2;
 import java.util.Scanner;
 
 // public class StudentGrade {
+
+// Using simple for loop 
 //     public static void main(String args[]){
 //         Scanner sc = new Scanner(System.in);
 //         System.out.print("Enter the marks : ");
@@ -19,8 +21,11 @@ import java.util.Scanner;
 //     }
     
 // }
+// --------------------------------------------------------------------------------------------
+
 
 // Second way using interface 
+
 
 // interface GradeCalculator {
 //     void calculateGrade(String name, int marks);
@@ -59,6 +64,11 @@ import java.util.Scanner;
 //         }
 //     }
 // }
+// ----------------------------------------------------------------------------------------------------------------
+
+
+
+// In Percentage we check
 
 // public class StudentGrade {
 //     public static void main(String[] args) {
@@ -84,6 +94,13 @@ import java.util.Scanner;
 
 //     }
 // }
+
+
+
+
+// --------------------------------------------------------------------------------
+
+// In Percentage we check  print name with percentage 
 
 // public class StudentGrade {
 //     public static void main(String[] args) {
@@ -122,6 +139,13 @@ import java.util.Scanner;
         
 //     }
 // }
+
+
+// ------------------------------------------------------------------------------------------------------------------
+
+
+// Using 1-d array and 2-d array 
+
 
 public class StudentGrade {
         public static void main(String[] args) {
