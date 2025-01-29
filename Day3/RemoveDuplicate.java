@@ -28,6 +28,7 @@ public class RemoveDuplicate {
 
         // Creating new array to add elements after removing duplicates 
         // Convert HashSet back to arr  
+        // creating result array of set size 
         int[] result = new int[set.size()];
         int index = 0;
         for (int num : set) {
