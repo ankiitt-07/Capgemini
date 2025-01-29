@@ -18,7 +18,7 @@ public class RemoveDuplicate {
         }
 
 
-        // Using Hashset
+        // Using Hashset 
         // Hashset automatically ignores Duplicates 
         HashSet<Integer> set = new HashSet<>();
         for(int num : array){
