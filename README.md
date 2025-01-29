@@ -1,7 +1,7 @@
 Capgemini
 
 ------------
-starting date 27 jan 2025
+starting date:-  27 jan 2025
 
 -----------------------------
 
@@ -20,6 +20,8 @@ Day 3:-Operator, Ternary Operator , Code Hygiene(Naming Convention)
 2:wap to find frequency of each element of array
 
 3:wap to do union of two arrays
+
+4:wap to find common bw two arrays 
 
 
 
