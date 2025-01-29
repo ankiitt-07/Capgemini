@@ -39,6 +39,8 @@ public class RemoveDuplicate {
 
 
 
+        // ----------------------------------------------------------------------------------
+
         // Using ArrayList 
         // Creating ArrayList name ll 
         // ArrayList<Integer> ll = new ArrayList<>();
@@ -49,9 +51,10 @@ public class RemoveDuplicate {
         //     }
         // }
         // System.out.println(ll);
+        
 
 
-
+        // ------------------------------------------------------------------------------------------
 
 
         // Using Simple for loop 
