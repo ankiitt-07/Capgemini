@@ -20,23 +20,35 @@ public class RemoveDuplicate {
 
         // Using Hashset
         // Hashset automatically ignores Duplicates 
-        HashSet<Integer> set = new HashSet<>();
-        for(int num : array){
-            set.add(num);
+        // HashSet<Integer> set = new HashSet<>();
+        // for(int num : array){
+        //     set.add(num);
 
-        }
+        // }
 
         // Creating new array to add elements after removing duplicates 
         // Convert HashSet back to arr  
-        int[] result = new int[set.size()];
-        int index = 0;
-        for (int num : set) {
-            result[index] = num;
-            index++;
-        }
+        // int[] result = new int[set.size()];
+        // int index = 0;
+        // for (int num : set) {
+        //     result[index] = num;
+        //     index++;
+        // }
         
-        System.out.println(Arrays.toString(result));
+        // System.out.println(Arrays.toString(result));
 
+
+
+        // Using ArrayList 
+        // Creating ArrayList name ll 
+        ArrayList<Integer> ll = new ArrayList<>();
+        for(int num : array){
+            // Checking list contains num or not if already present it will not do anything if not it will add element
+            if(!ll.contains(num)){
+                ll.add(num);
+            }
+        }
+        System.out.println(ll);
 
 
 
