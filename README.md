@@ -23,5 +23,17 @@ Day 3:-Operator, Ternary Operator , Code Hygiene(Naming Convention)
 
 4:wap to find common bw two arrays 
 
+-------------------------------------------------------------------------------------------
+
+Day 4:-
+
+1: wap to find the frequency of Alphabets in a Given String
+
+2: wap to find the count of Capital character , Lower charcter , digit and Special Character
+
+3: wap to check Panagram and Anagram
+
+4: wap to find the count of vowels 
+
 
 
