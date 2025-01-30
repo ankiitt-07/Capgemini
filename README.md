@@ -35,5 +35,14 @@ Day 4:-
 
 4: wap to find the count of vowels 
 
+5: wap to check if a string is rotation of another string  ex-abc out :-cab
+
+6: wap to concate two strings without using (+ , concat())
+
+7: wap to count occurrence of word started with given character 
+
+8: String vs String Builder vs String Buffer
+
+
 
 
