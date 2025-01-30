@@ -20,14 +20,16 @@ public class CountOfLoweCapitalDigitSpecialch {
             else if(Character.isLowerCase(ch)){
                 lowerCaseCount++;
             }
-            // here checking the char is Special charcter or not if yes then increase the count of specialchar count 
-            else if(!Character.isLetterOrDigit(ch) && !Character.isWhitespace(ch)){
-                specialCharCount++;
-            }
             // Here checking the char is digit or not if yes then increase the count of digit count 
             else if(Character.isDigit(ch)){
                 digitCount++;
             }
+            // here checking the char is Special charcter or not if yes then increase the count of specialchar count 
+            // else if(!Character.isLetterOrDigit(ch) && !Character.isWhitespace(ch)){
+            else if(ch != ' '){
+                specialCharCount++;
+            }
+            
         }
         System.out.println("Uppercase Letters: " + upperCaseCount);
         System.out.println("Lowercase Letters: " + lowerCaseCount);
