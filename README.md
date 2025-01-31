@@ -1,27 +1,37 @@
-Capgemini
+CAPGEMINI
 
 ------------
-starting date:-  27 jan 2025
+Starting Date:-  27 jan 2025
 
 -----------------------------
 
-Day1:- Primitive Datatypes , Type Casting
+Day1:- 
+
+1: Primitive Datatypes , Type Casting
 
 ------------------------------------------------------------------------------
 
-Day2 :- Local vs Static vs Global vs Instance , Pass by value , Pass by reference ,Final keyword , wap to check the marks is greater than 75
+Day2 :-
+
+1: Local vs Static vs Global vs Instance 
+
+2:  Pass by value , Pass by reference ,Final keyword  
+
+3: wap to check the marks is greater than 75
 
 --------------------------------------------------------------------------------------------
 
-Day 3:-Operator, Ternary Operator , Code Hygiene(Naming Convention) 
+Day 3:-
 
-1:wap to remove duplicate elements from array.
+1: Operator, Ternary Operator , Code Hygiene(Naming Convention) 
 
-2:wap to find frequency of each element of array
+2: wap to remove duplicate elements from array.
 
-3:wap to do union of two arrays
+3: wap to find frequency of each element of array
 
-4:wap to find common bw two arrays 
+4: wap to do union of two arrays
+
+5: wap to find common bw two arrays 
 
 -------------------------------------------------------------------------------------------
 
@@ -42,6 +52,25 @@ Day 4:-
 7: wap to count occurrence of word started with given character 
 
 8: String vs String Builder vs String Buffer
+
+<!-- ------------------------------------------------------------------------------------------------- -->
+
+Day 5:- 
+
+1:- wap to move all the zeros to left 
+
+2:- wap to print sum of 2d array
+
+3:- Given 2 array , Merge them in Zigzag Order
+
+4:- Object/ Classes/ Methods/ Constructor
+
+5:- Access Modifiers/ Identifiers/ Keywords 
+
+6:= JVM/ JRE/ JDk
+
+<!-- -------------------------------------------------------------------------------------------------------------------- -->
+
 
 
 

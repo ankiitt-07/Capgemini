@@ -4,7 +4,7 @@ public class FrequencyOfAlpahbets {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the String : ");
         String str = sc.nextLine();
-        str = str.toLowerCase();
+        // str = str.toLowerCase();
 
         // Using HAshmap 
 
